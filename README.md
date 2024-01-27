@@ -1,4 +1,4 @@
-###This project showcases both datacleaning and machine learning in Python. 
+This project showcases both datacleaning and machine learning in Python. 
 
 
 Link to the dataset used in this project:
